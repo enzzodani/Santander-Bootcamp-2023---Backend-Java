@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a8739e4-7689-40dd-b088-6bca9c998ad6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/logic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0a8739e4-7689-40dd-b088-6bca9c998ad6" name="Changes" comment="Operators class java (last class)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +63,7 @@
       <workItem from="1694707936588" duration="3642000" />
       <workItem from="1694722439981" duration="1388000" />
       <workItem from="1694876814316" duration="135000" />
-      <workItem from="1695751048070" duration="1056000" />
+      <workItem from="1695751048070" duration="1238000" />
     </task>
     <task id="LOCAL-00001" summary="Operators class java">
       <option name="closed" value="true" />
@@ -77,7 +73,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694713027589</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Operators class java (last class)">
+      <option name="closed" value="true" />
+      <created>1695752219609</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695752219609</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,7 +89,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Operators class java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Operators class java" />
+    <MESSAGE value="Operators class java (last class)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Operators class java (last class)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
