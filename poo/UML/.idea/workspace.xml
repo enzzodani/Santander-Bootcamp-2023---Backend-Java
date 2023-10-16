@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4bd1b232-84c7-49da-b578-dcda669445cd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../contrutores/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contrutores/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contrutores/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contrutores/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contrutores/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contrutores/contrutores.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contrutores/src/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contrutores/src/SistemaCadastro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enums/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enums/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enums/.idea/git_toolbox_prj.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enums/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enums/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enums/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enums/enums.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enums/src/EstadoBrasileiro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enums/src/SistemaIBGE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../getter-setter/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../getter-setter/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../getter-setter/.idea/git_toolbox_prj.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../getter-setter/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../getter-setter/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../getter-setter/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../getter-setter/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../getter-setter/getter-setter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../getter-setter/src/escola/Aluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../getter-setter/src/escola/Escola.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pacotes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pacotes/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pacotes/.idea/git_toolbox_prj.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pacotes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pacotes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pacotes/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pacotes/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pacotes/pacotes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pacotes/src/com/mastersoft/clinical/model/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pacotes/src/com/mastersoft/clinical/model/Exame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pacotes/src/com/mastersoft/clinical/service/ExameService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../visibilidade-de-recursos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../visibilidade-de-recursos/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../visibilidade-de-recursos/.idea/git_toolbox_prj.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../visibilidade-de-recursos/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../visibilidade-de-recursos/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../visibilidade-de-recursos/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../visibilidade-de-recursos/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../visibilidade-de-recursos/src/lanchonete/Estabelecimento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../visibilidade-de-recursos/src/lanchonete/area/cliente/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../visibilidade-de-recursos/src/lanchonete/atendimento/Atendente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../visibilidade-de-recursos/src/lanchonete/atendimento/cozinha/Almoxarife.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../visibilidade-de-recursos/src/lanchonete/atendimento/cozinha/Cozinheiro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../visibilidade-de-recursos/visibilidade-de-recursos.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2WZd9LGMsmf9Npg8ucEg3Z3upuU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bd1b232-84c7-49da-b578-dcda669445cd" name="Changes" comment="" />
+      <created>1696943884754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696943884754</updated>
+      <workItem from="1696943885832" duration="601000" />
+      <workItem from="1696946161643" duration="407000" />
+      <workItem from="1697476693349" duration="169000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
